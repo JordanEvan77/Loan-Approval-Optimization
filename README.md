@@ -1,5 +1,5 @@
 # Loan-Approval-Optimization
-Using a large Time Series data set from California to build a model that helps predict default on loans
+Using a large Time Series data set from California to build a model that helps predict default on loans. Background and data sets: https://www.tandfonline.com/doi/full/10.1080/10691898.2018.1434342
 
 The scenario is that you are a Loan Officer in 2010 out of San Jose, CA working at a local bank and have been given a very large dataset from the Small Business Association with a variety of features included. Your task is to create a model for predicting whether or not a loan given to a small business will be Charged Off or Paid in Full from new data coming in. Your specific industry you are analyzing is Real Estate and Rental and Leasing. There are 25 variables included in the initial version of the dataset.
 
